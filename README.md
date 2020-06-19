@@ -31,4 +31,6 @@ The script inside the ```evaluation.py``` file returns a CSV file that contains 
 
 The script inside the ```plots.py``` file defines a plot of the aggregate accuracy value (specified in data obtained running experiments) over communication rounds. Parameters must be specified inside the code.
 
-Credits: Tommaso Di Noia, Antonio Ferrara, Domenico Siciliani
+##Credits
+
+This library has been developed by Domenico Siciliani and Antonio Ferrara while working at [SisInf Lab](http://sisinflab.poliba.it/) under the supervision of Tommaso Di Noia.
