@@ -1,6 +1,6 @@
 # ClientAware-FL
 
-Here are implemented three Federated Learning systems, used to define four different experiments using:
+Here three Federated Learning systems are implemented, used to define four different experiments using:
 
 - MNIST to define iid local datasets (```MNIST``` folder)
 - MNIST to define non-iid local datasets (```MNIST``` folder)
